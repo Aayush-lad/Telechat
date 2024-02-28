@@ -1,7 +1,6 @@
 # 🚀 Telechat: Scalable Real-time Chat Application
 
 
-
 ## Overview
 
 Telechat is an advanced real-time chat application designed to provide users with a seamless communication experience. Built with cutting-edge technologies, Telechat ensures secure messaging, video calls, and efficient data management.
@@ -67,6 +66,8 @@ Telechat operates through a well-orchestrated series of components:
    - Tailwind CSS offers a utility-first CSS framework, allowing for rapid UI development and customization.
    - Responsive design principles ensure Telechat is accessible and functional across various devices and screen sizes.
 
+## Live Website Link
+https://telechat-client.vercel.app/login
 ## Installation
 
 To run Telechat locally, follow these steps:
