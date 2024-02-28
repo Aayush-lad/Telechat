@@ -124,3 +124,17 @@ npm run dev
 
 - Website is slow as it is deployed using free tier render and redis free tier(10MB)
 - Sometimes during high load kafka might disconnect as it is  free tier and uses shared kafka cluster  ( dont worry your message will be stored  in DB and will appear on reload)
+
+
+### Screenshots
+
+
+<img src="https://github.com/Aayush-lad/Telechat/assets/126383391/cb2e4271-9e42-4a60-82c8-0d6bce56815d" width="500px" height="300px">
+<img src="https://github.com/Aayush-lad/Telechat/assets/126383391/41bdeadd-d043-4c41-8f6d-ae31c1720eda" width="700px" height="300px">
+<img src="https://github.com/Aayush-lad/Telechat/assets/126383391/8cc31904-9581-4cf2-a642-7bc3cdad8ce7" width="700px" height="300px">
+<img src="https://github.com/Aayush-lad/Telechat/assets/126383391/ee76740e-7ab2-4263-a687-e1e743403329" width="700px" height="300px">
+<img src="https://github.com/Aayush-lad/Telechat/assets/126383391/e9a37821-9307-4d14-8e00-bb166f37140c" width="700px" height="300px">
+
+
+
+
